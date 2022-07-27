@@ -1,10 +1,10 @@
 Amplitude.init({
    "songs":[
       {
-         "name":"Stress Management - Building Awareness",
-         "url":"./audio/Building_Awareness.mp3",
-         "source": "World Health Organization",
-         "source_url": "https://www.who.int/publications/i/item/9789240003927"
+         "name":"Financial Systems",
+         "url":"./audio/T1+-+Financial+System+changa.mp3",
+         "source": "Siaedge",
+         "source_url": "https://www.siaedge.com/lesson/ateso"
       },
       {
          "name":"Stress Management - Grounding Exercise 1",
